@@ -16,7 +16,9 @@ Middleware => logger => Pino (pino-pretty)
 
 
 TODO:
-Integracion Angular
+
+Expancion modulo Items.
+Integracion Angular.
 ---------
 
 
