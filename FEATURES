@@ -1,0 +1,14 @@
+Pipes => validation (scope => local), ParseInt
+
+Guards => Autentificacion =>passport local => sesiones-express
+       => Autorizacion    =>RBAC Roles
+
+Tools => Hashing => bcrypt
+      => Session Serializer (solo id + rol) 
+      => AutoIDs  
+      => Seeder => faker random users 
+
+Exception => Controllers lvl
+
+Middleware => logger => Pino (pino-pretty)
+
