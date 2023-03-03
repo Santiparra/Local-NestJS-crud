@@ -16,7 +16,7 @@ Middleware => logger => Pino (pino-pretty)
 
 
 TODO:
-
+Integracion Angular
 ---------
 
 
